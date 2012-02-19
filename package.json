@@ -1,0 +1,26 @@
+{
+  "author": "Brad Heller <brad.heller@gmail.com>",
+  "name": "real-time-news",
+  "description": "Pulls news from a buncha websites in real time.",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "server",
+  "engines": {
+    "node": ">= 0.6.10"
+  },
+  "dependencies": {
+    "cassandra-client": ">= x.x",
+    "express": ">= x.x.x",
+    "crypto": ">= x.x.x",
+    "jsdom": ">= x.x.x"
+    "request": ">= x.x.x"
+    "underscore": ">= x.x.x"
+    "url": ">= x.x.x"
+  },
+  "devDependencies": {},
+  "licenses" : []
+}
